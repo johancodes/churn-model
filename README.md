@@ -4,5 +4,4 @@ This machine learning model predicts if a customer will leave a particular bank 
 
 Additional Notes:
 - This is a Logistic Regression Model app that receives fresh data and outputs a prediction.
-- Test the endpoint on your machine; download app.py, and two .pkl files.
-- A Procfile was not added to this directory.
+- Test the endpoint on your machine; download app.py and the two .pkl files.
